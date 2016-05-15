@@ -4,7 +4,7 @@ class Recipe(recipe.Recipe):
     name = 'icon-naming-utils'
     version = '0.8.7'
     stype = SourceType.TARBALL
-    url = 'http://tango.freedesktop.org/releases/icon-naming-utils-0.8.7.tar.gz'
+    url = 'http://pkgs.fedoraproject.org/repo/pkgs/icon-naming-utils/icon-naming-utils-0.8.7.tar.gz/4abe604721ce2ccb67f451aa7ceb44d6/icon-naming-utils-0.8.7.tar.gz'
     licenses = [License.GPLv2]
     deps = ['XML-Simple']
 
